@@ -19,7 +19,7 @@ function Joboptions() {
     className={`px-7 py-2 text-sm font-medium flex items-center space-x-2 relative ${
       item.current
         ? 'text-Orange after:bg-Orange after:scale-x-100'
-        : 'text-gray-400 hover:text-Orange hover:text-white'
+        : 'text-gray-400 hover:text-red-600 hover:text-white'
     } after:absolute after:bottom-0 after:left-10 after:h-0.5 after:w-14`}
   >
     {item.name}
