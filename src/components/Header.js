@@ -12,7 +12,7 @@ const navbar = [
 
 function Header() {
   return (
-    <div className="w-full border-b-2 border-gray-200 py-7">
+    <div className="w-full border-b-2 border-gray-300 py-7">
     <img className="position: absolute left-7 top-6 h-12 w-24" src={logo} />
 
     <div className="hidden sm:mb-8 sm:flex justify-center">
@@ -23,7 +23,7 @@ function Header() {
                     href={item.href}
                     aria-current={item.current ? 'page' : undefined}
                     className={`rounded-full px-7 py-2 text-sm font-medium flex items-center space-x-2 ${
-                      item.current ? 'bg-Orange text-white border-orangeBorder border-2' : 'text-gray-300 hover:bg-Orange hover:text-white hover:border-orangeBorder hover:border-2'
+                      item.current ? 'bg-Orange text-white border-orangeBorder border-2' : 'text-gray-400 hover:bg-Orange hover:text-white hover:border-orangeBorder hover:border-2'
                     }`}
                   >
                      <item.icon className="h-5 w-5" aria-hidden="true" />

@@ -9,6 +9,9 @@ export default {
       colors: {
         Orange: "#DC4A2D",
         orangeBorder: "#FCB4A5",
+      },
+      fontFamily: {
+        'montserrat': ['Montserrat'],
       }
     },
   },

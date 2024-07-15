@@ -11,7 +11,10 @@ function App() {
     
     <Header />
     <Joboptions />
-    <PostData />
+    <div className="w-[24%] border-l-2 bg-[#FCFCFC] absolute h-full right-1 p-6">
+            <PostData />
+          </div>
+    
     <JobData />
     <Company />
     </>
