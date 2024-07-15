@@ -1,0 +1,36 @@
+[
+    {
+        "post":"Senior Product Designer",
+        "time":" . posted 69 days ago",
+        "location":"Delaware,USA",
+        "earning":"$300k - 400k",
+        "status": true,
+        "skillsRequired" : [
+            { "Name": "Figma", "icon": "/figma.png" },
+            { "Name": "Adobe Illustrator", "icon": "/adobeIllustrator.png" },
+            { "Name": "Adobe XD", "icon": "/adobeXd.png" }
+          ],
+        "Lan":"English",
+        "type":"Full Time",
+        "exp":"3+ Years of experience",
+        "jobDetails": {
+            "description": [
+              "Handle the UI/UX research design",
+              "Work on researching on latest web applications designs & trends",
+              "Work on conceptualizing and visualizing",
+              "Work on creating graphics content and other graphic related works"
+            ],
+            "benefits": ["Health Insurance", "Provident Fund"],
+            "schedule": "Day Shift",
+            "PayTypes": ["Performance bonus", "Yearly bonus"],
+            "Location": "In Person"
+          },
+        "Comp": "Atlassian",
+        "CType": "Private",
+        "Csize": "1k-2k Employees",
+        "sec": "Information Technology infrastructure",
+        "Fund": "Bootstrap",
+        "Found": "2019",
+        "FoundBy": "Mohit Jain canadian nashedi"
+    }
+]
