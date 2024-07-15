@@ -3,6 +3,7 @@ import Header from './components/Header'
 import Joboptions from './components/options'
 import PostData from './components/sidebar'
 import JobData from './components/JobData'
+import Company from './components/Company'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Joboptions />
     <PostData />
     <JobData />
+    <Company />
     </>
   )
 }
